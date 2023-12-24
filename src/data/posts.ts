@@ -5,7 +5,7 @@ export const posts: Post[] = [
     id: 1,
     title: 'Lorem ipsum dolor sit amet',
     publishedAt: '7 April 2022',
-    thumbnailUrl: '/images/posts/post-thumbnail-1.png',
+    thumbnailUrl: '/images/posts/work-01.png',
     imageUrl: '/images/posts/post-01.png',
     authorName: 'John Doe',
     content: `
@@ -38,7 +38,7 @@ export const posts: Post[] = [
     id: 2,
     title: 'Dolorem eum magni eos aperiam',
     publishedAt: '9 Mar 2022',
-    thumbnailUrl: '/images/posts/post-thumbnail-2.png',
+    thumbnailUrl: '/images/posts/post-thumbnail-2.`png',
     imageUrl: '/images/posts/post-02.png',
     authorName: 'John Doe',
     content: `
